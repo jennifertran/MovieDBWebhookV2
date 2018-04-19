@@ -1,0 +1,9 @@
+{
+  "name": "MovieDBWebhookV2",
+  "description": "NodeJS Webhook for Bots",
+  "repository": "https://github.com/jennifertran/MovieDBWebhookV2.git",
+  "keywords": [
+    "movies",
+    "api"
+  ]
+}
